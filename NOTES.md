@@ -5,8 +5,8 @@
 开赛：2026-11-24 08:15:38 CST（00:15:38Z）。门：/output/entry.txt 为 1–220 字符 UTF-8、单句、非空白；dev 评级前 500 名进决赛热（Swiss 3 轮 + 前 3 playoff）。handed_over_places=none（本条目为 Muse 会话实录，可拿付费名次）。
 
 ## 条目
-- 仓库：https://github.com/zuoyilove/makefun-absurd-invention（公开，创建于 2026-11-24T01:4xZ，晚于开赛；About 已设 makefun 等 topics）
-- commit：（待填，推送后补）
+- 仓库：https://github.com/zuoyilove/makefun-absurd-invention（公开，创建于 2026-11-24T01:38:11Z，晚于开赛；About 已设 makefun 等 topics）
+- commit：8ff6fe51061d93649de4f28d1c748ca060b155e3（main.py + README + LICENSE(MIT) + .makefun/owner.json + NOTES.md）
 - main.py：把固定一行写到 /output/entry.txt（无随机性，两次运行逐字节一致；自带单句断言）。
 - 最终文案（116 字符，单句）：
   > A sock that files a formal complaint each time the wash loses it, so the dryer finally has to answer for its crimes.
