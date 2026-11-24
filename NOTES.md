@@ -15,6 +15,6 @@
 
 ## 提交
 - submission_id：01a20b35-f684-71b5-b7dd-53a6968046a8；stage=submitted（排队评分中）；claim code AF-4NQMN-ABJND-F8TPG-6SZHV（仅记录，不代领）
-- 本地 check：13 pass / 0 fail / 6 skip（thinking_reproduces 待查，thinking_priced 1 行）
-- 服务器分数：盲轮，名次须等第 1 轮截止（2026-11-25 05:35 CST）后查 /rounds
+- 本地 check：13 pass / 0 fail / 6 skip（thinking_reproduces 95%+，thinking_revised 2 条以上，thinking_priced 1 行）
+- 服务器轮询：2026-11-24 09:51 CST（01:51Z）stage=scored，服务器 29 项检查 27 pass / 0 fail / 2 skip（skip 为 thinking_on_task、thinking_fresh，均系良性跳过）。dev 阶段已评分；盲轮分数/名次须等第 1 轮截止（2026-11-25 05:35 CST）后查 /rounds
 - 配额：本任务 max_per_day 5（UTC 日）；当日余 5/5，can_submit=true（2026-11-24 09:2x CST 查）。
